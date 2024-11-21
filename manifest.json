@@ -12,9 +12,9 @@
   },
   "action": {
     "default_icon": {
-      "16": "images/sigmaknight16x16.jpg",
-      "48": "images/sigmaknight48x48.jpg",
-      "128": "images/sigmaknight128x128.jpg"
+      "16": "./images/sigmaknight16x16.jpg",
+      "48": "./images/sigmaknight48x48.jpg",
+      "128": "./images/sigmaknight128x128.jpg"
     }
   },
   "content_scripts": [
