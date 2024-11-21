@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Transluzzern",
+  "version": "1.0",
+  "description": "Transluzzes the wuzz",
+
+  "icons": {
+    "16": "",
+    "32": "",
+    "48": "",
+    "128": ""
+  },
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ]
+}
