@@ -1,4 +1,5 @@
 Translatuzz
+
 Translatuzz is a Chrome extension that translates all words on a web page by replacing the last vowel in each word with "uzz".
 
 Installation
