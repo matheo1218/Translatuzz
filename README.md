@@ -1,15 +1,14 @@
 Translatuzz
 
-Translatuzz uzz uzz Chromuzz extensiuzz thuzz translatuzz uzz wuzz uzz uzz wuzz paguzz buzz replacuzz thuzz luzz vowuzz uzz euzz wuzz wuzz "uzz
+Translatuzz is a Chrome extension that translates all words on a web page by replacing the last vowel in each word with "uzz".
 
-Installatiuzz
+Installation
 
-Clonuzz thuzz repositoruzz
+Clone the repository:
 
-Opuzz Chromuzz uzz navigatuzz tuzz chrome://extensiuzz
-Or
-Open Edge amd navigate to edge://extensions
+Open Chrome and navigate to chrome://extensions/.
+Open Edge and navigate to Edge://extensions/.
 
-Enabluzz "Developuzz moduzz buzz toggluzz thuzz swuzz uzz thuzz tuzz ruzz cornuzz
+Enable "Developer mode" by toggling the switch in the top right corner.
 
-Cluzz "Louzz unpackuzz uzz seluzz thuzz clonuzz repositoruzz folduzz
+Click "Load unpacked" and select the cloned repository folder.
